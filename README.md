@@ -8,3 +8,7 @@
 # Fructe
 - mere
 - portocale
+
+# Snackuri
+- Cipsuri
+- Alune
