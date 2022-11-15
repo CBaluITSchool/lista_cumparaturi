@@ -19,3 +19,8 @@
 # Haine
 - Tricou
 - Pantaloni
+
+# Alcoale
+- Gin
+- Rom
+- Vin
