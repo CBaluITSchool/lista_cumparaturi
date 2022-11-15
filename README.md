@@ -12,3 +12,7 @@
 # Snackuri
 - Cipsuri
 - Alune
+
+# Bautura
+- Cola
+- Apa minerala
