@@ -1,1 +1,10 @@
 # Lista Cumparaturi
+
+## Legume
+- morcovi
+- conopida
+- ceapa
+
+# Fructe
+- mere
+- portocale
