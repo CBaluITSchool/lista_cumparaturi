@@ -15,3 +15,7 @@
 
 # Cosmetice
 - Pudra
+
+# Haine
+- Tricou
+- Pantaloni
